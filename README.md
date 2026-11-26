@@ -1,5 +1,7 @@
 # pysdic
 
+[Deprecated] Consider using pysdic instead.
+
 ## Description
 
 Python Stereo Digital Image Correlation Toolbox.
